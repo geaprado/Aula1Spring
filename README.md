@@ -1,3 +1,5 @@
+git config --global http.sslVerify false
+
 # Aula1Spring
 
 POST:
